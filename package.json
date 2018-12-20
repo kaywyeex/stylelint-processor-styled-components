@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "@babel/parser": "^7.2.3",
-    "@babel/traverse": "^7.0.0",
+    "@babel/traverse": "^7.2.3",
     "postcss": "^6.0.14"
   }
 }
